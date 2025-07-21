@@ -22,6 +22,7 @@ php artisan migrate --seed
 php artisan serve
 
 env and llm(for auto-generate)
+OPENROUTER_API_KEY=your_openrouter_api_key_here
 OPENROUTER_DEFAULT_MODEL=gryphe/mythomax-l2-13b
 #using
 DB_CONNECTION=mysql
