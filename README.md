@@ -10,7 +10,9 @@ This is a CMS (Content Management System) API built using Laravel. It supports:
 ---
 
 ## 🚀 Setup Instructions
+## postman link - https://surajrajbhar-2750050.postman.co/workspace/chat-app~9c7fc691-481c-499b-a0d2-f4522d428171/collection/45713249-89eec193-97ab-445b-80da-85ec629afe07?action=share&source=copy-link&creator=45713249
 
+## if any issue arrives while running the project or in postman can reach out - Thank you
 ### 1. Clone the Repository or use it anyway-
 ```bash
 git clone https://github.com/your-username/laravel-cms-api.git
